@@ -6,7 +6,6 @@ int main()
 {
 	char str[256];
 	int len = 0,i = 0,max_index;
-	//str = (char *)(malloc(256));
 	printf("Enter the string:\n");
 	scanf("%s",str);
 	len = strlen(str);
